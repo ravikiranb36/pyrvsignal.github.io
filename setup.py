@@ -12,7 +12,7 @@ setuptools.setup(
     description="Signal for Python",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="git@github.com:ravikiranb36/pyrvsignal.github.io.git",
+    url="https://github.com/ravikiranb36/pyrvsignal.github.io.git",
     license="MIT",
     packages=setuptools.find_packages(exclude=("tests", "venv")),
     include_package_data=True,
